@@ -1,6 +1,6 @@
 # Calculadora Simples
 
-Este é um projeto de teste par praticar meu primeiro Pull Request.
+Este é um projeto de teste para praticar meu primeiro Pull Request.
 
 ## Funções
 
